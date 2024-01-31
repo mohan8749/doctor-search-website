@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Dr. Bharadwaz",
+        "specialization": "CARDIOLOGIST",
+        "location": "Mumbai",
+        "phone": "+91 923-456-7890",
+        "email": "bharadwaz@gmail.com",
+        "image": "ten.jpg"
+    },
+    {
+        "name": "Dr. Adhira",
+        "specialization": "Dermatologist",
+        "location": "Kolkata",
+        "phone": "+91 987-654-3210",
+        "email": "adhira@gmail.com",
+        "image": "four.jpg"
+    },
+    {
+        "name": "Dr. Ananya",
+        "specialization": "Orthopedic Surgeon",
+        "location": "Hyderabad",
+        "phone": "+91 955-123-4567",
+        "email": "Ananya@gmail.com",
+        "image": "one.jpg"
+    },
+    {
+        "name": "Dr. Avni",
+        "specialization": "Family Physician",
+        "location": "Bangalore",
+        "phone": "+91 811-222-3333",
+        "email": "Avni@gmail.com",
+        "image": "two.jpg"
+    },
+    {
+        "name": "Dr. Ariyan",
+        "specialization": "Pediatrician",
+        "location": "Pune",
+        "phone": "+91 777-888-9999",
+        "email": "Ariyan@gmail.com",
+        "image": "nine.jpg"
+    },
+    {
+        "name": "Dr. Subin Chowdary",
+        "specialization": "ENT",
+        "location": "Ahmedabad",
+        "phone": "+91 623-456-7890",
+        "email": "Subin Chowdary@gmail.com",
+        "image": "eight.jpg"
+    },
+    {
+        "name": "Dr. Chaityani",
+        "specialization": "Dentiistry",
+        "location": "Surat",
+        "phone": "+91 823-456-7890",
+        "email": "Chaityani@gmail.com",
+        "image": "three.jpg"
+    },
+    {
+        "name": "Dr. Ramesh Reddy",
+        "specialization": "Electrophysiology",
+        "location": "Delhi",
+        "phone": "+91 633-456-7890",
+        "email": "Ramesh Reddy@gmail.com",
+        "image": "seven.jpg"
+    },
+    {
+        "name": "Dr. Komal Kumar",
+        "specialization": "Sports Medicine",
+        "location": "Chennai",
+        "phone": "+1 926-466-7890",
+        "email": "Komal Kumar@gmail.com",
+        "image": "six.jpg"
+    },
+    {
+        "name": "Dr. Venkatesh Nayak",
+        "specialization": "Otology",
+        "location": "Visakhapatnam",
+        "phone": "+1 923-956-9690",
+        "email": "Venkatesh Nayak@gmail.com",
+        "image": "five.jpg"
+    }
+]
